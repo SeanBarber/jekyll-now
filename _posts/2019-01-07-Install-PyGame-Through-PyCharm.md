@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 ---
 I am trying to dabble with PyGame to maybe make some basic games.
 
